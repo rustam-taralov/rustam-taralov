@@ -3,7 +3,7 @@
 
 👋 Hey there!
 
-I’m Rustam, a senior backend engineer based in Azerbaijan.
+I’m Rustam, a senior backend engineer based in Dubai.
 
 I build reliable systems, refactor complex architectures, and love turning messy legacy codebases into clean, scalable, high-performance microservices.
 
